@@ -1,5 +1,5 @@
 define({
-	theme:      { module: 'cssx/css!css/themes/gray/theme.css' },
+	theme:      { module: 'cssx/css!css/themes/mozilla/theme.css' },
 	transition: { module: 'cssx/css!css/themes/fade.css' },
     model: {
 	     create: {
