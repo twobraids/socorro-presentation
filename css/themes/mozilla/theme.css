@@ -19,7 +19,7 @@ footer p {
 }
 
 #slide-container {
-	margin-top: 4em;
+	margin-top: 1.5em;
 	background: none;
 }
 
@@ -29,7 +29,7 @@ footer p {
 }
 
 .slide h1 {
-	font-size: 3.2em;
+	font-size: 2em;
 	font-weight: bold;
 	color: #666;
 	margin-bottom: 0;

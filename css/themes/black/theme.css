@@ -27,7 +27,7 @@ footer p {
 }
 
 .slide h1 {
-	font-size: 3.2em;
+	font-size: 2.5em;
 	font-weight: bold;
 	color: #666;
 	margin-bottom: 0;
@@ -98,7 +98,7 @@ footer p {
 	.slide {
 		font-size: 90%;
 	}
-	
+
 	.slide-container {
 		margin-top: 1em;
 	}
@@ -106,12 +106,12 @@ footer p {
 	.slide .slide-layout-title {
 		padding-top: 0;
 	}
-	
+
 	.slide p {
 		font-size: 1.25em;
 		margin-left: .25em;
 	}
-	
+
 	.slide h2 {
 		margin-left: .25em;
 	}
