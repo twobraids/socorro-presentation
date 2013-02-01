@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="37cm" height="14cm" viewBox="139 18 735 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="740" y="98.9091" width="132.364" height="66.1818"/>
+    <ellipse style="fill: #ffffff" cx="806.182" cy="165.091" rx="66.1818" ry="18.9091"/>
+    <ellipse style="fill: #ffffff" cx="806.182" cy="98.9091" rx="66.1818" ry="18.9091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 98.9091 L 740,165.091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 872.364 98.9091 L 872.364,165.091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 98.9091 C 740,88.4661 780.074,80 806.182,80 C 832.29,80 872.364,88.4661 872.364,98.9091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 98.9091 C 740,109.352 780.074,117.818 806.182,117.818 C 832.29,117.818 872.364,109.352 872.364,98.9091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 115.455 C 740,125.898 780.074,134.364 806.182,134.364 C 832.29,134.364 872.364,125.898 872.364,115.455"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 132 C 740,142.443 780.074,150.909 806.182,150.909 C 832.29,150.909 872.364,142.443 872.364,132"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 148.545 C 740,158.988 780.074,167.455 806.182,167.455 C 832.29,167.455 872.364,158.988 872.364,148.545"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 740 165.091 C 740,175.534 780.074,184 806.182,184 C 832.29,184 872.364,175.534 872.364,165.091"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="806.182" y="200.727">
+      <tspan x="806.182" y="200.727">Postgres</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="726.812" y1="213.044" x2="753.162" y2="186.138"/>
+    <polygon style="fill: #000000" points="721.565,218.402 724.989,207.76 726.812,213.044 732.134,214.756 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="721.565,218.402 724.989,207.76 726.812,213.044 732.134,214.756 "/>
+    <polygon style="fill: #000000" points="758.41,180.78 754.985,191.423 753.162,186.138 747.841,184.426 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.41,180.78 754.985,191.423 753.162,186.138 747.841,184.426 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="560" y="98.9091" width="132.364" height="66.1818"/>
+    <ellipse style="fill: #ffffff" cx="626.182" cy="165.091" rx="66.1818" ry="18.9091"/>
+    <ellipse style="fill: #ffffff" cx="626.182" cy="98.9091" rx="66.1818" ry="18.9091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 98.9091 L 560,165.091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 692.364 98.9091 L 692.364,165.091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 98.9091 C 560,88.4661 600.074,80 626.182,80 C 652.29,80 692.364,88.4661 692.364,98.9091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 98.9091 C 560,109.352 600.074,117.818 626.182,117.818 C 652.29,117.818 692.364,109.352 692.364,98.9091"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 115.455 C 560,125.898 600.074,134.364 626.182,134.364 C 652.29,134.364 692.364,125.898 692.364,115.455"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 132 C 560,142.443 600.074,150.909 626.182,150.909 C 652.29,150.909 692.364,142.443 692.364,132"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 148.545 C 560,158.988 600.074,167.455 626.182,167.455 C 652.29,167.455 692.364,158.988 692.364,148.545"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 560 165.091 C 560,175.534 600.074,184 626.182,184 C 652.29,184 692.364,175.534 692.364,165.091"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="626.182" y="200.727">
+      <tspan x="626.182" y="200.727">HBase</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="674.057" y1="85.3037" x2="693.03" y2="66.7981"/>
+    <polygon style="fill: #000000" points="698.399,61.5613 694.732,72.123 693.03,66.7981 687.749,64.9643 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="698.399,61.5613 694.732,72.123 693.03,66.7981 687.749,64.9643 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="682.603" y1="184.922" x2="712.899" y2="213.339"/>
+    <polygon style="fill: #000000" points="677.133,179.791 687.847,182.985 682.603,184.922 681.006,190.279 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="677.133,179.791 687.847,182.985 682.603,184.922 681.006,190.279 "/>
+    <polygon style="fill: #000000" points="718.369,218.47 707.655,215.276 712.899,213.339 714.496,207.982 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="718.369,218.47 707.655,215.276 712.899,213.339 714.496,207.982 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="740" y1="60" x2="755.668" y2="77.0459"/>
+    <polygon style="fill: #000000" points="760.744,82.5676 750.295,78.589 755.668,77.0459 757.658,71.8217 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760.744,82.5676 750.295,78.589 755.668,77.0459 757.658,71.8217 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="300" y="29.3117" width="65.1818" height="32.5909"/>
+    <ellipse style="fill: #ffffff" cx="332.591" cy="61.9026" rx="32.5909" ry="9.31169"/>
+    <ellipse style="fill: #ffffff" cx="332.591" cy="29.3117" rx="32.5909" ry="9.31169"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 29.3117 L 300,61.9026"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 365.182 29.3117 L 365.182,61.9026"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 29.3117 C 300,24.1691 319.734,20 332.591,20 C 345.448,20 365.182,24.1691 365.182,29.3117"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 29.3117 C 300,34.4543 319.734,38.6234 332.591,38.6234 C 345.448,38.6234 365.182,34.4543 365.182,29.3117"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 37.4594 C 300,42.602 319.734,46.7711 332.591,46.7711 C 345.448,46.7711 365.182,42.602 365.182,37.4594"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 45.6071 C 300,50.7498 319.734,54.9188 332.591,54.9188 C 345.448,54.9188 365.182,50.7498 365.182,45.6071"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 53.7549 C 300,58.8975 319.734,63.0666 332.591,63.0666 C 345.448,63.0666 365.182,58.8975 365.182,53.7549"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 61.9026 C 300,67.0452 319.734,71.2143 332.591,71.2143 C 345.448,71.2143 365.182,67.0452 365.182,61.9026"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="332.591" y="85.5422">
+      <tspan x="332.591" y="85.5422">LocalFS</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="140" y="120" width="120" height="37"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="120" width="120" height="37"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="165" y="141">
+      <tspan x="165" y="141">Collector 2</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="140" y="180" width="120" height="37"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="180" width="120" height="37"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="169" y="200">
+      <tspan x="169" y="200">Collector n</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="260" y1="78.5" x2="290.192" y2="64.8192"/>
+    <polygon style="fill: #000000" points="297.023,61.7237 289.979,70.4053 290.192,64.8192 285.851,61.2968 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.023,61.7237 289.979,70.4053 290.192,64.8192 285.851,61.2968 "/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="400" y="60" width="120" height="37"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="60" width="120" height="37"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="419" y="81">
+      <tspan x="419" y="81">CrashMover 1</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="140" y="60" width="120" height="37"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="60" width="120" height="37"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="165" y="81">
+      <tspan x="165" y="81">Collector 1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="300" y="129.312" width="65.1818" height="32.5909"/>
+    <ellipse style="fill: #ffffff" cx="332.591" cy="161.903" rx="32.5909" ry="9.31169"/>
+    <ellipse style="fill: #ffffff" cx="332.591" cy="129.312" rx="32.5909" ry="9.31169"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 129.312 L 300,161.903"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 365.182 129.312 L 365.182,161.903"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 129.312 C 300,124.169 319.734,120 332.591,120 C 345.448,120 365.182,124.169 365.182,129.312"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 129.312 C 300,134.454 319.734,138.623 332.591,138.623 C 345.448,138.623 365.182,134.454 365.182,129.312"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 137.459 C 300,142.602 319.734,146.771 332.591,146.771 C 345.448,146.771 365.182,142.602 365.182,137.459"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 145.607 C 300,150.75 319.734,154.919 332.591,154.919 C 345.448,154.919 365.182,150.75 365.182,145.607"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 153.755 C 300,158.897 319.734,163.067 332.591,163.067 C 345.448,163.067 365.182,158.897 365.182,153.755"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 161.903 C 300,167.045 319.734,171.214 332.591,171.214 C 345.448,171.214 365.182,167.045 365.182,161.903"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="332.591" y="185.542">
+      <tspan x="332.591" y="185.542">LocalFS</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="300" y="209.312" width="65.1818" height="32.5909"/>
+    <ellipse style="fill: #ffffff" cx="332.591" cy="241.903" rx="32.5909" ry="9.31169"/>
+    <ellipse style="fill: #ffffff" cx="332.591" cy="209.312" rx="32.5909" ry="9.31169"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 209.312 L 300,241.903"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 365.182 209.312 L 365.182,241.903"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 209.312 C 300,204.169 319.734,200 332.591,200 C 345.448,200 365.182,204.169 365.182,209.312"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 209.312 C 300,214.454 319.734,218.623 332.591,218.623 C 345.448,218.623 365.182,214.454 365.182,209.312"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 217.459 C 300,222.602 319.734,226.771 332.591,226.771 C 345.448,226.771 365.182,222.602 365.182,217.459"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 225.607 C 300,230.75 319.734,234.919 332.591,234.919 C 345.448,234.919 365.182,230.75 365.182,225.607"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 233.755 C 300,238.897 319.734,243.067 332.591,243.067 C 345.448,243.067 365.182,238.897 365.182,233.755"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 300 241.903 C 300,247.045 319.734,251.214 332.591,251.214 C 345.448,251.214 365.182,247.045 365.182,241.903"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="332.591" y="265.542">
+      <tspan x="332.591" y="265.542">LocalFS</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="400" y="120" width="120" height="37"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="120" width="120" height="37"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="142">
+      <tspan x="420" y="142">CrashMover 2</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="400" y="180" width="120" height="37"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="180" width="120" height="37"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="421" y="202">
+      <tspan x="421" y="202">CrashMover n</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="261.003" y1="141.77" x2="289.3" y2="143.287"/>
+    <polygon style="fill: #000000" points="296.789,143.688 286.536,148.146 289.3,143.287 287.071,138.16 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="296.789,143.688 286.536,148.146 289.3,143.287 287.071,138.16 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="260" y1="198.5" x2="289.939" y2="209.68"/>
+    <polygon style="fill: #000000" points="296.965,212.304 285.848,213.49 289.939,209.68 289.346,204.121 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="296.965,212.304 285.848,213.49 289.939,209.68 289.346,204.121 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="366.18" y1="61.9974" x2="391.25" y2="74.2304"/>
+    <polygon style="fill: #000000" points="397.99,77.5194 386.811,77.6276 391.25,74.2304 391.196,68.6405 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="397.99,77.5194 386.811,77.6276 391.25,74.2304 391.196,68.6405 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="366.18" y1="142.066" x2="390.318" y2="139.521"/>
+    <polygon style="fill: #000000" points="397.776,138.734 388.356,144.755 390.318,139.521 387.307,134.811 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="397.776,138.734 388.356,144.755 390.318,139.521 387.307,134.811 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="366.18" y1="212.1" x2="390.967" y2="202.132"/>
+    <polygon style="fill: #000000" points="397.925,199.334 390.513,207.704 390.967,202.132 386.782,198.426 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="397.925,199.334 390.513,207.704 390.967,202.132 386.782,198.426 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="520" y1="78.5" x2="550.709" y2="93.9726"/>
+    <polygon style="fill: #000000" points="557.406,97.3474 546.226,97.313 550.709,93.9726 550.726,88.3825 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="557.406,97.3474 546.226,97.313 550.709,93.9726 550.726,88.3825 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="520.371" y1="136.139" x2="549.429" y2="135.002"/>
+    <polygon style="fill: #000000" points="556.923,134.709 547.126,140.096 549.429,135.002 546.735,130.104 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="556.923,134.709 547.126,140.096 549.429,135.002 546.735,130.104 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="520" y1="198.5" x2="554.781" y2="176.717"/>
+    <polygon style="fill: #000000" points="561.138,172.736 555.316,182.282 554.781,176.717 550.009,173.806 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="561.138,172.736 555.316,182.282 554.781,176.717 550.009,173.806 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="20" width="120" height="37"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="20" width="120" height="37"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="41.5">
+    <tspan x="700" y="41.5">Monitor</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="700" y="260" width="120" height="37"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="700" y="260" width="120" height="37"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="680" y="240" width="120" height="37"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="240" width="120" height="37"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="220" width="120" height="37"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="220" width="120" height="37"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="760" y="278.5">
+    <tspan x="760" y="278.5"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="689" y="241.5">
+    <tspan x="689" y="241.5">Processors</tspan>
+  </text>
+</svg>
