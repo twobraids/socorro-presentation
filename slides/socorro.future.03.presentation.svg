@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="32cm" height="16cm" viewBox="11 19 629 304" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="136" y="140" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136" y="140" width="140" height="60"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="116" y="120" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="116" y="120" width="140" height="60"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="138" y="261" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138" y="261" width="140" height="60"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="118" y="241" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="118" y="241" width="140" height="60"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="99" y="21" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="99" y="21" width="140" height="60"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="169" y="51">
+    <tspan x="169" y="51">Mozilla Socorro</tspan>
+    <tspan x="169" y="67">Collectors</tspan>
+  </text>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="320.1" y="21.7" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="320.1" y="21.7" width="140" height="60"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="390.1" y="51.7">
+      <tspan x="390.1" y="51.7">Mozilla Socorro</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="239" y1="51" x2="310.364" y2="51.616"/>
+    <polygon style="fill: #000000" points="317.864,51.6807 307.821,56.5942 310.364,51.616 307.908,46.5946 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="317.864,51.6807 307.821,56.5942 310.364,51.616 307.908,46.5946 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="236.997" y1="129.759" x2="450.264" y2="129.033"/>
+    <polygon style="fill: #000000" points="457.764,129.008 447.781,134.042 450.264,129.033 447.747,124.042 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="457.764,129.008 447.781,134.042 450.264,129.033 447.747,124.042 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="239.006" y1="251.564" x2="284.264" y2="251.923"/>
+    <polygon style="fill: #000000" points="291.764,251.982 281.725,256.903 284.264,251.923 281.804,246.903 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="291.764,251.982 281.725,256.903 284.264,251.923 281.804,246.903 "/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="499" y="139" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="499" y="139" width="140" height="60"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="479" y="119" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="479" y="119" width="140" height="60"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="460" y="99" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="99" width="140" height="60"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="532.9" y="132.3">
+      <tspan x="532.9" y="132.3">Carrier Socorro</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="334" y="262" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="334" y="262" width="140" height="60"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="314" y="242" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="314" y="242" width="140" height="60"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="294" y="222" width="140" height="60"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294" y="222" width="140" height="60"/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="367" y="255">
+      <tspan x="367" y="255">JavaScript Socorro</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #000000" x1="21" y1="50" x2="84.793" y2="50.8179"/>
+    <polygon style="fill: #000000" points="92.2923,50.914 82.2291,55.7854 84.793,50.8179 82.3573,45.7862 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #000000" points="92.2923,50.914 82.2291,55.7854 84.793,50.8179 82.3573,45.7862 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="96" y="100" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="96" y="100" width="140" height="60"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="166" y="130">
+    <tspan x="166" y="130">Carrier Socorro</tspan>
+    <tspan x="166" y="146">Collectors</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="98" y="221" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="98" y="221" width="140" height="60"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="168" y="251">
+    <tspan x="168" y="251">App Owner Socorro</tspan>
+    <tspan x="168" y="267">Collectors</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #000000" x1="15" y1="129" x2="81.7929" y2="129.825"/>
+    <polygon style="fill: #000000" points="89.2923,129.917 79.2313,134.793 81.7929,129.825 79.3548,124.794 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #000000" points="89.2923,129.917 79.2313,134.793 81.7929,129.825 79.3548,124.794 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #000000" x1="18.2382" y1="250.321" x2="83.7923" y2="250.879"/>
+    <polygon style="fill: #000000" points="91.292,250.943 81.2499,255.858 83.7923,250.879 81.3349,245.858 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 6; stroke: #000000" points="91.292,250.943 81.2499,255.858 83.7923,250.879 81.3349,245.858 "/>
+  </g>
+</svg>
